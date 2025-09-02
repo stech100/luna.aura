@@ -1,0 +1,5 @@
+{
+  "name": "Aura AI Chat",
+  "description": "A sleek and modern chatbot interface powered by the Gemini API, allowing users to engage in dynamic conversations with an advanced AI model.",
+  "requestFramePermissions": []
+}
